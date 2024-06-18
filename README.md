@@ -2,6 +2,8 @@
 <h3 align="center">A passionate developer from India</h3>
 
 - 📫 How to reach me **ishaanswork@gmail.com**
+- You can view my GfG Profile here: **https://www.geeksforgeeks.org/user/ishaansjpr/**
+- You can go through my Leetcode Profile here: **https://leetcode.com/u/ishaansjpr/**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
